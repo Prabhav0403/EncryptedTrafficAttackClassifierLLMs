@@ -1,4 +1,4 @@
-#Encrytped Traffic cybersecurity attack prediction model Powered By LLM
+# Encrytped Traffic cybersecurity attack prediction model Powered By LLM
 **Detect Threats, Secure Networks, Empower Decisions**
 
 **Languages Used:** Python (99%), Others (1%)
