@@ -1,5 +1,4 @@
-# EncryptedTrafficAttackClassifierLLMs
-
+#Encrytped Traffic cybersecurity attack prediction model Powered By LLM
 **Detect Threats, Secure Networks, Empower Decisions**
 
 **Languages Used:** Python (99%), Others (1%)
@@ -69,8 +68,11 @@ Follow these steps to build the project from source:
 git clone https://github.com/suchetsanjeev/EncryptedTrafficAttackClassifierLLMs
 ```
 2. Navigate to the project directory:
-cd EncryptedTrafficAttackClassifierLLMs**
-
+```bash
+cd EncryptedTrafficAttackClassifierLLMs
+```
 
 3. Install dependencies:
-** pip install -r requirements.txt**
+```bash
+pip install -r requirements.txt
+```
