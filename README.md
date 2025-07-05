@@ -2,8 +2,7 @@
 
 **Detect Threats, Secure Networks, Empower Decisions**
 
-_Last Commit: Last Thursday_  
-**Languages Used:** Python (99%), Others (3%)
+**Languages Used:** Python (99%), Others (1%)
 
 ---
 
@@ -15,6 +14,7 @@ _Last Commit: Last Thursday_
 - 🎯 scikit-learn  
 - 🌐 Streamlit  
 
+- LLM used is prajjwal1\bert-tiny
 ---
 
 ## 📚 Table of Contents
@@ -30,7 +30,7 @@ _Last Commit: Last Thursday_
 
 ## 📌 Overview
 
-**EncryptedTrafficAttackClassifierLLMs** is a sophisticated developer tool designed to classify **encrypted network traffic** using lightweight language models. It supports security analysts in:
+**EncryptedTrafficAttackClassifierLLMs** is a sophisticated developer tool designed to classify **cybersecurity network traffic attacks** using lightweight language models. It supports security analysts in:
 
 - Detecting malicious activity in real time  
 - Enhancing network observability  
@@ -38,7 +38,7 @@ _Last Commit: Last Thursday_
 
 ### 🔐 Why EncryptedTrafficAttackClassifierLLMs?
 
-This project streamlines encrypted traffic classification with a focus on **security**, **performance**, and **usability**. Core features include:
+This project streamlines encrypted traffic cyber attack prediction across 9 different attack categories with a focus on **security**, **performance**, and **usability**. Core features include:
 
 - ✅ **Real-time Threat Detection:** An interactive Streamlit interface for instant predictions and enriched flow descriptions  
 - ⚙️ **Model Configuration & Tokenization:** Leverages Tiny BERT-based models with configurable NLP pipelines  
